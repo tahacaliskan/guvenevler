@@ -1,0 +1,6 @@
+_build/
+_kaynak-fotograflar/
+_build_menus.py
+__pycache__/
+*.pyc
+ikinci-versiyon/_build-kaynak/
